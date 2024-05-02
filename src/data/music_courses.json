@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "Jerry",
+            "isFeatured": true,
+            "image": "/courses/guitar1.jpg"
+        },
+        {
+            "id":2,
+            "title": "Advanced Vocal Techniques",
+            "slug": "Advanced-Vocal-Techniquess",
+            "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+            "price" :99.99,
+            "instructor": "John Doe",
+            "isFeatured":true,
+            "image":"/courses/vocal1.jpg"
+        },
+        {
+            "id":3,
+            "title": "Music Production Fundamentals",
+            "slug": "Music-Production-Fundamentals",
+            "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+            "price" :99.99,
+            "instructor": "Alice johnson",
+            "isFeatured":true,
+            "image":"/courses/fundamentals1.jpg"
+        },
+        {
+            "id":4,
+            "title": "Electronic Music Production",
+            "slug": "Electronic-Music-Production",
+            "description": "Start your musical journey with foundational piano skills taught by expert.",
+            "price" :99.99,
+            "instructor": "John Doe",
+            "isFeatured":true,
+            "image":"/courses/piano-5607683_1280.jpg"
+        },
+        {
+            "id":5,
+            "title": "Blues Guitar Techniques",
+            "slug": "Blues-Guitar-Techniques",
+            "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+            "price" :99.99,
+            "instructor": "John Doe",
+            "isFeatured":true,
+            "image":"/courses/electronic1.jpg"
+        },
+        {
+            "id":6,
+            "title": "Enchanting Tabla Drum",
+            "slug": "Enchanting-Tabla-Drum",
+            "description": "Explore the rhythmic world of the tabla drum, a staple of Indian classical music.",
+            "price" :99.99,
+            "instructor": "Alice johnson",
+            "isFeatured":true,
+            "image":"/courses/TablaDrum.jpeg"
+        },
+        {
+            "id":7,
+            "title": "Balafon Melodic Percussion Instrument",
+            "slug": "Balafon-WestAfrican-Instrument",
+            "description": "The balafon is a traditional West African instrument with a rich cultural heritage and a unique sound.",
+            "price" :99.99,
+            "instructor": "Aly Keita",
+            "isFeatured":true,
+            "image":"/courses/Balafon.jpeg"
+        },
+        {
+            "id":8,
+            "title": "The French Horn: A Versatile Brass Instrument",
+            "slug": "Versatile-Brass-Instrument",
+            "description": "The French horn, often simply referred to as the horn, is a brass instrument renowned for its distinctive tone quality and wide range.",
+            "price" :99.99,
+            "instructor": "Dale Clevenger",
+            "isFeatured":true,
+            "image":"/courses/frenchHorn.jpg"
+        },
+        {
+            "id":9,
+            "title": "The Flute: A Timeless Woodwind Wonder",
+            "slug": "Woodwind-flute-Techniques",
+            "description": "The flute is a versatile and enchanting woodwind instrument with a long and storied history. ",
+            "price" :99.99,
+            "instructor": "Marcel Moyse",
+            "isFeatured":true,
+            "image":"/courses/flute.jpeg"
+        },
+        {
+            "id":10,
+            "title": " The Violin: A Timeless Emissary of Emotion",
+            "slug": " Violin-Timeless-Emotion",
+            "description": "King of Instruments is a symbol of elegance, expressiveness, and virtuosity. ",
+            "price" :99.99,
+            "instructor": "Prof.Zakhar bron",
+            "isFeatured":true,
+            "image":"/courses/voilin.jpeg"
+        }
+    ]
+}
