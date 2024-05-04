@@ -4,6 +4,7 @@ import Link from "next/link"
 import { BackgroundGradient } from "./ui/background-gradient"
 // import { IconAppWindow } from "@tabler/icons-react"
 import Image from "next/image";
+import {motion} from "framer-motion";
 
 
 interface Course {
