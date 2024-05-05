@@ -10,7 +10,7 @@ import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 
 const musicSchoolTestimonials = [
-{
+  {
     qoute:
       'Joining the music school transformed my understanding of music and helped me to turly discover my own sound. The instructors are world-class!',
     name: 'Alice Johnson',
@@ -56,7 +56,7 @@ function MusicSchoolTestimonials() {
         <div className="w-full max-w-6xl">
           <InfiniteMovingCards
             items={musicSchoolTestimonials}
-            
+
             direction="right"
             speed="slow"
           />
