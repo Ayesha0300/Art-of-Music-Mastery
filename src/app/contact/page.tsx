@@ -79,7 +79,7 @@ function page() {
                                     <div className="sm:col-span-2">
                                         <label htmlFor="message" className="block text-sm font-semibold leading-6 text-gray-400">Message</label>
                                         <div className="mt-2.5">
-                                            <textarea name="message" id="message" rows="4" class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-gray-600 sm:text-sm sm:leading-6"></textarea>
+                                            <textarea name="message" id="message" rows={4} className="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-gray-600 sm:text-sm sm:leading-6"></textarea>
                                         </div>
                                     </div>
                                     <div className="flex gap-x-4 sm:col-span-2">
@@ -102,15 +102,16 @@ function page() {
                                 </div>
                             </form>
                         </div>
-
+{/* 
                         <div className="flex justify-between items-center mt-20">
                             <CardItem
                                 translateZ={20}
                                 //   as={Link}
                                 //   href="https://twitter.com/mannupaaji"
                                 target="__blank"
-                                className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white" children={undefined}                            >
-                                
+                                className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white" 
+                                children={undefined}                            >
+
                             </CardItem>
                             <CardItem
                                 translateZ={20}
@@ -120,7 +121,7 @@ function page() {
 
                                 Sign up with Gmail
                             </CardItem>
-                        </div>
+                        </div> */}
                     </CardBody>
                 </CardContainer>
 

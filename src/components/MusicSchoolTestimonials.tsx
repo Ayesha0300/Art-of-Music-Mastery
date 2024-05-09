@@ -54,12 +54,12 @@ function MusicSchoolTestimonials() {
       </h2>
       <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8">
         <div className="w-full max-w-6xl">
-          <InfiniteMovingCards
+          {/* <InfiniteMovingCards
             items={musicSchoolTestimonials}
 
             direction="right"
             speed="slow"
-          />
+          /> */}
         </div>
       </div>
     </div>
